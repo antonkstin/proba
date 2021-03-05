@@ -1,0 +1,17 @@
+@font-face {
+  font-family: 'Rubik';
+  src: url(../vendor/Rubik-Regular.ttf);
+  font-weight: 400;
+}
+
+* {
+  box-sizing: border-box;
+  font-family: 'Rubik', Arial, Helvetica, sans-serif;
+}
+
+body {
+  padding: calc(5vw);
+  margin: 0;
+
+  background-color: black;
+}
